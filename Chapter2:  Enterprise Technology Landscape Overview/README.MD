@@ -1,1 +1,2 @@
-
+Chapter 2 is dedicated to giving an overview of common enterprise technology landscape components. 
+We distinguish between Systems of innovation, differentiation and systems of record, before we examine the associated change cadence and challenges related to these cadences. We expand the classification from an application point of view into the infrastructure realm and rounded the discussion out by looking into the difficulties around adoption of a standard operating model because of those distinguished traits across that classification. We even examined two seemingly opposing approaches to reduce risk and improve stability and velocity which are a) resist change and b) embrace change.
