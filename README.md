@@ -7,5 +7,6 @@ We see constructive feedback as a gift and hence do very much welcome and apprec
 
 Please do so by tagging the issues you raise with the relevant chapter tag.
 
-Thank you & I hope all is very well at your end!
+Thank you & we hope all is very well at your end!
+
 Andreas & Ahilan
