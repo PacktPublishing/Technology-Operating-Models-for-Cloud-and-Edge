@@ -1,1 +1,4 @@
+Chapter 8 wraps the book up. We introduce additional aspects that might impact or even evolve your thinking like antifragility, geographically disparate (non-)autonomous operating models, different ways to measure progress, how tech debt, undifferentiated heavy lifting and open source are connected, and cover gap analysis and roadmap development. On top of that we are discussing how much architecture we really need, sharing some experiences from within an ivory tower, organizational life cycles and comparing them with each other such as product VS business capability VS business model VS brand lifecycles in the context of an enterprise life span. We revisit prioritization and decision making and introduce a graphical way to make the best possible decision with the often limited information you have available. 
+
+Finally, we close the book with next steps for the reader to take.
 
