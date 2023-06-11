@@ -1,1 +1,4 @@
+Chapter 5 is all about the how and is hence one of the core chapters in this book as it explains in detail the building blocks for an distributed operating model across cloud and edge. We start off with showing the steps towards the desired outcome in the ‘Starting at the End’ section via a flow chart and an operating model dashboard to track outcomes, work in process (WIP) and dependencies. 
+
+We spend time on stakeholder management, showcase tools like RA(S)CI and four-quadrant groupings to help you handle scale and complexity. We cover research on the perfect team size based on Dunbar's number, just before we explain workshop leading practices to help lead teams along the forming, storming, norming and performing life cycle. This all in order to create a safe and open workshop environment to achieve the best outcomes for your operating model while working your dimensions with your stakeholder groups.
 
