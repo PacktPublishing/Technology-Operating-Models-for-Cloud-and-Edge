@@ -1,1 +1,4 @@
+Chapter 6 is the other core chapter in relation to the development of your operating model. If you smell a rubbery smell while reading it, it is because that’s where the rubber hits the road. We introduce an anonymised real-life use case and walk you through how this organization built its Distributed Technology operating model in a hybrid multicloud and edge context.
+
+We are doing this by introducing the company, the market context, internal constraints and mindset and then work with you step-by-step through the process utilizing already introduced templates and new assets you can reuse for your operating model development process. Reusable and in-depth are the documentation of the operating model dimensions, the iterations and the definition of the (interim) target states with an inbuilt semi-automatic percentage based gap analysis for you to measure your operating model completeness.
 
