@@ -1,1 +1,1 @@
-
+In chapter 3 we examine closely why the Gartner Bimodal IT approach never yielded the results expected and extract the learnings out of it in order to apply it to our distributed technology operating model. We again looked at change cadence differences between mode 1 and mode 2, and looked at the tools, processes and mindsets associated with it to find the root cause of the challenges and limitations. We found that there was no endorsed bimodal architecture which could combine a working approach between mode 1 and mode 2 estates, so we created one for the readers revision. 
