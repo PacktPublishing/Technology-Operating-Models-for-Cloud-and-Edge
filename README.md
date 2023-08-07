@@ -3,6 +3,9 @@ Technology Operating Models for Cloud and Edge, published by Packt Publishing
 
 This repo contains the assets described in the book.
 
+You can get your own copy of the **The _Resurgence Program_ Operating Model template which is covered in Chapter 6 is available at** [here]
+(https://docs.google.com/forms/d/1jP-nFezcPyFcS36xavFvj3ftvudNfExRVSecNbM5a7c/prefill)
+
 **The _Resurgence Program_ Operating Model template that is covered in Chapter 6 is available at** [Operating Model template](https://docs.google.com/spreadsheets/d/1tCzjgtLrHhjFQv7_GdqpRQwdgNsj3PnKjL87dRGOS4A/edit?usp=sharing)
 
 We see constructive feedback as a gift and hence do very much welcome and appreciate you taking the time to raise issues against specific chapters.
